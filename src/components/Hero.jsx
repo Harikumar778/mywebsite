@@ -1,5 +1,5 @@
 import React from 'react'
-import '../app.css'
+
 function Hero() {
   return (
     <section className='bg-dark text-light p-3 text-center'>

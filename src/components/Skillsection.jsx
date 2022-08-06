@@ -2,7 +2,7 @@ import React from 'react'
 
 import { useEffect } from 'react'
 
-import '../app.css'
+
 
 function Skillsection() {
     const getData=()=>{

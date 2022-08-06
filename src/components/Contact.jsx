@@ -1,6 +1,5 @@
 import React, { useRef, useState } from 'react'
 import emailjs from '@emailjs/browser';
-import '../app.css'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 
